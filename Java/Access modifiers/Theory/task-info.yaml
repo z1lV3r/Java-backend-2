@@ -1,0 +1,13 @@
+type: theory
+files:
+  - name: src/com/hugo/villanueva/ExternalClass.java
+    visible: true
+    encrypted_text: tBTIbyZl1QzcVsjIMkwn6X0C8yPgsV89XyVrjQOwZe2SZ30pGN7uQ3sNDju+sMjWlpw4sIPEBvxGQ99QHQMXwg==
+    learner_created: false
+  - name: src/Packages.java
+    visible: true
+    encrypted_text: TtsGEusA8cuwIdycXrGiWS5t+S+lQ9923gXatY2OdB9sphJbvPToG+ZjUhIgaPwsxcM7WPgd9Q3v3Yj/F2QmkHpkuBoB8IlCO7UPhCa+YKeKRPReVJoVg/k59ep2IXbS0LsuWgv4N9ZBDGEbdlBG8tWTy9/e+ds5AF0bi9+h3LM9XkWwcr8u+mc3ZEDSGhBD2VU1hSgrk6YvB4Wup223jN6X6k9TVLu6SrXUMln4UYLiWUfGODBsPUNeieZ+H7woF0N4MzZjQf2QaNELw09O9g==
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true
