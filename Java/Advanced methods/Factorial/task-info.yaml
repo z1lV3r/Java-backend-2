@@ -1,0 +1,23 @@
+type: edu
+files:
+  - name: src/Task.java
+    visible: true
+    placeholders:
+      - offset: 194
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 194
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: ErQoV8TQF6AW+bjMsxXnMB/+YeuSoX6fxTTMql92LnfZmiYAV5A4WIqJy3YBEt3sndj9i659Jqa3xDbgwHXiSPSdt+aO72yUD4AGOF2vk5qmgkDgyK1cq0BUlbWHZpfE
+    encrypted_text: WEJEkhpCAL5HUFSlR3wpPyFwPlLyF7xM9SfDz0gpEyn0nnRv1DRCH8yrYFOH0XHOHgO9LdyG/Df2eQ+RljCg0oPGvWeDd+Vi/rfPWfuYoOTYY8IZWJzCbZqsaBPPSZXt37DUePUyOfMkh2TvtM7/dj9AxG782mviBocxMM8I1OFB3h4gfXgqP08/OMs1pYl4syIUKxAOEoMFaQtchtu8EyzXfT4tVon5RKPNjTopYFoAWXZOWuLkwkAiTDLYVhcS/mho1CsZLbGFRykcPXiLw1pDGzI0LIxsHF3IE3VXCpk=
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    encrypted_text: ITs8Nv8EH6QWJG5nufD7nELYfladGZWDUrKFjXZLNPDpD+ixobhbrJ/2kid8rWwa8EWo0FQzGTMGJdwTdB5HiEPuFdxjqoYF4gz4KHHR1GE/kO0niqivZaKXIvcUYsREaL3w9d2WaUXJEsL2lo8lLSfAa3FxXFi6uApCRgPptviV53vOYd19bdECd1R/OySeiygmsPDx0hNfmoPZscNAfmJU12MVUWIBSJM7MijhdZ1S1ZkBUX0JYtvzx7OGGtLvHCpDPvv+0ntX0nconuhp8a3eYeV1Oo/kLZ/mbYKcz8rMknh71ZOynhiwL6AMQ3zW8pu22paNzyDIrQKL4naZHUpjWsx9JaEF1LL+9HEguFP6yy6EIfcCyEtiaKCGXamSVdnZPqFtlYVIZqMkaIWon4eqksCHJIb4ouWOhk+UaIDB0Cufpe6tx9puw5+EUURe1+83m2IsS1evMoERklP6AAfh60wUhDuR1loqtfWFJ3/ZCEY0DlrbrXJfVr/e0f1FCVXYBG+OD/hCH5Oy6PZK89YI8XIjnq7yxSNJLB57Cm4Gb41PbQD66Wm3OTg9wQkf5r70XuWHEvPKzUPVB5AswtnbDu7A5PP0lE3GdV3rneuoKBlyTdJW0rLMiWE4GJz5YoNyVXIYeDWVaHqRiC30CYIDJCQntrHBfb695RFDZAg8xj5gIWpkcfy3nZ7FlzikK5lkpR9gjmBqfPAgiOfl/ZiahW0m1k/qPa+Ft/wYTsOpA4VWbiowRkDm97HSKJ7dFl/ki6xL8PmlWIBnpNMp7lMsEUPhHxn7CLJArvyr2YeABYLiliQYrJ+AwDIgBtmPTQ9wuNAXhxTdMBmekHXKW8lYC36nNVgV8Vi7BfPRWVJb09eYfccDcLVVKySBaC1Y63IXZP+ZbdwrOFn3a4FUNIDNQ2rk+Iwbxj0TZo2GtQWN2JGsrI+HMYDEBgPGeQOPRvObDV5CAA6x8IiXggJFahTOVIiCu+sWGdWkr59TcC4umz6kA4g45jgOiHFGQfTE9bBeyrrIEADUgxJ3/EyjBo6CHRr5UUynYy7ezDsn2Dd5MZNexn6tmcxj1h+oFalUK8j/h/5DUcKiI10POqkYmOAkHeJKrFTffVxaQ7Vz74vvk8sd3QAzukKE0gEVUwXgB0Es18RL+CL2LBy4PbrF1++WxGqWBLIDvO+iYFbG6RSSRj8oFZnDFzjz43uP9lkJoN5x5vusA8h/ziy+H3ZsHzRAy57rxAQ+CUy+T02DdJwsTJ07d9tkKuatyMNnBizF
+    learner_created: false
+status: Unchecked
+record: -1
