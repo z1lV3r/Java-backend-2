@@ -1,10 +1,11 @@
 type: marketplace
-title: Java backend 2
+title: Java backend 2 (2)
 language: English
 summary: Second java course
 programming_language: Java
 content:
   - Java
+  - Software design
 mode: Study
 environment_settings:
   jvm_language_level: JDK_1_8

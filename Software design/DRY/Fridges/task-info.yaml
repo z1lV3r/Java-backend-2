@@ -1,0 +1,125 @@
+type: edu
+files:
+  - name: src/Task.java
+    visible: true
+    encrypted_text: WEJEkhpCAL5HUFSlR3wpP55BUZ+Ql5YPW71WJ76v1RRIxl1EfMT3qEwyEksqeP7eOAWIzmU6gvP1o1IBhfCJhsdsDJr5+UuWA5VlBaitiLsLpS+gY3a1rHmxmVcTf+xakoG52ERkL/uRZ3c+EX4lCrtRNR/p7WZIYFsRAitI6d6cdbiEetaDodEi5hRy4pb+S6VBAddQjTJdDbgMcHb32FDO2x7+NKl2QPKBBtgPftRK9vUCaf1gy6Pkd406Dq6tkYV3n6lfGwqZjJehG2tjnyY82EiOVlT1pwuOxCFE51uYmIB6DBhozE2j3CsDt0AtRZKGp2insOK5nzpLdXW8hbsqiI0yuwAK6w1ho+xNaGK+aK1bGIc3ICmoLl6OUCdk5NQPdXH486h2JinuBRJ9YIpZNa31xgBmftKpfvm9Ftaz6aR+a6jnV5Z0sJnH6U1TWQunFK1J87o+PUzeMtVP56Pfewrb+tpEtPC+WC/47A8lM15jxofnJQX+0vPw6brB
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    encrypted_text: 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
+    learner_created: false
+  - name: src/Fridge2.java
+    visible: true
+    placeholders:
+      - offset: 21
+        length: 0
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 21
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: kYIXzLyl1vWPM3SDZaDXNA==
+      - offset: 27
+        length: 411
+        placeholder_text: |-
+          private final String branch;
+              private final int temperature;
+          
+              public Fridge2(int temperature) {
+                  this.branch = "Branch1";
+                  this.temperature = temperature;
+              }
+          
+              public int getCelsiusTemperature() {
+                  return temperature;
+              }
+          
+              public int getFahrenheitTemperature() {
+                  return (temperature * 9/5) + 32;
+              }
+          
+              public String getBranch() {
+                  return branch;
+              }
+        initial_state:
+          length: 411
+          offset: 27
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 689yDk5iHe5sMVGH45t2sjMCsY9ZyCveFeS05xYlBeAYIkgL4khnieoYrc3+2ovlUXe2RGv2Ozsh30JXqKeFx4jte1euCVzih2XecmmC04V9pgFHVcJ9HNTWlguqsrSL
+    encrypted_text: rR7buxiReLkDtK5Y0J0s9naCe6UMU1G46MA9GTz57T5dtN1gb8WAhlYSw1hYZ1vsYpP59UGR8Ei5N7jPrCamQ4Ekt2kLKDilI6shXLqJgb5qygBldOI3BnoeeKg8ordlpi8SogNCzJbm57o7DIGbAR8vulnJxEkHIjPnbwhSMcfYJcQV+A99bD0zcKZ2KriFFyg6uRUIYX16XDZlUCK2npIv985vcvQrElBVF3MNMBv2Vnw82IMubUlLaIze5JU4XQ3VylbBW7LpPi8tBeM6kdsuHQDtA5z/H8h6sX9HKbml7hwTFMxEDolxiZ1ysTD7YAE4T29UoS+2BjqGeoIWwyYpn39Exx6SpDwcDP+Vy9Rb7B9qM62mDycUDKWztmKbFhxSwCsofen3YSaDpVFI/JuRYqmWmLVL7rZFKOmKM2BjEDlbE6VxMmPlr7qm6GEfo1lNGDiw2EQ8MFUf6ClaKvY6WvfepsZIYV1MM61SaiDm6KkXX/hDwm+E2kvl0TUqKSgAFp157dk7HtpAH3pDSiYUsZ3XNawy5865NSpnWTiP/N59oiOevZXkP7/YWPJyKgO02bxgxtsq2zcJs1tYsA==
+    learner_created: false
+  - name: src/Fridge1.java
+    visible: true
+    placeholders:
+      - offset: 21
+        length: 0
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 21
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: kYIXzLyl1vWPM3SDZaDXNA==
+      - offset: 27
+        length: 411
+        placeholder_text: |-
+          private final String branch;
+              private final int temperature;
+          
+              public Fridge1(int temperature) {
+                  this.branch = "Branch1";
+                  this.temperature = temperature;
+              }
+          
+              public int getCelsiusTemperature() {
+                  return temperature;
+              }
+          
+              public int getFahrenheitTemperature() {
+                  return (temperature * 9/5) + 30;
+              }
+          
+              public String getBranch() {
+                  return branch;
+              }
+        initial_state:
+          length: 411
+          offset: 27
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: tf3Rd5+wjMmbz7swGKHJ3kPuLv9OxWRGl2Xzzf9TOOkl+nFp8g909abUPtYVFWyOY7w2lD3uLtm8g5dyrg937pIkKKM8ZJX/lJEnFRGiV18GHHEGvwMqmEEUfnoDClxA
+    encrypted_text: rR7buxiReLkDtK5Y0J0s9qjwNqDDMdn210/xRIwuJQ8pXyanfjbSNgJo1M4KDYfeDHWjsJL/MxS2NVjCCZK96lBVvaMXXld3CMI384fKLtKItQXH9gv06HlBsbG0/lc4iolxXZM2+Pd+9XPgyeKR8r8+JC6RM//Jd6hf+nzxbZRaat37CH5m2/Y7eMncIO/Jh0yT3FtMdba846sxJeC7LV5cN6VIjmySCX9F0L6dRo3GzOzVK0w80KePtSQwiUNoRXK3QROiDmaoY/toTZ+Z9Xa4opaovj3IwW1rryWbPOSdBAXg8byZitmpMGB9W3wkt8eUwDWD1ZTNMDq8hqqHa/KfUgaK0cI/gfJZ2o2KNTySj3OpjwFo7bjDNOcbmRT6NPE9AYXWQgGcCgdXfaGCaAsPpw9fPu/VEAUuBvEO4Na7RHB0rPvsDkUlmqpI1P6gQNyTo4WjsqqE163wU/RWRyxt1VofT7+k2kQRyFwmfNgqacMkGNroZrigncjxtuAWdXUqThdINZ0cslZu3PjKYpi+e677uVDVH/uRdhDgBXXg4L8GvvFDISn2c7oXX+uQRrk8fviQgxuz6RS3yc755w==
+    learner_created: false
+  - name: src/Fridge3.java
+    visible: true
+    placeholders:
+      - offset: 21
+        length: 0
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 21
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 6tSY12VzmEUJHn+nftYHVA==
+      - offset: 23
+        length: 15
+        placeholder_text: /* IMPLEMENT */
+        initial_state:
+          length: 15
+          offset: 23
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: CUe1J1O8Yvj8B+CjQSbTscpspq1rNYFfo9NkuTdl4fyTPXgQHQBdSn/jfUc/yR4fSOnoqb8QuxC4kiyYwn8+rLHqZFu5aAFvQU9vZCZ08j77FhvGhy5UW/eXAQzSbZmY
+    encrypted_text: rR7buxiReLkDtK5Y0J0s9v4bInK2iFcdG2vL0yeZWdbcIKjojlETZJr640rsXDbY
+    learner_created: false
+status: Unchecked
+record: -1
