@@ -1,4 +1,4 @@
-package com.example.polimorphism;
+package com.example.polymorphism;
 
 public class Chips extends Product {
     private long expiryDate;

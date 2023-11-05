@@ -1,0 +1,103 @@
+type: edu
+files:
+  - name: src/Task.java
+    visible: true
+    encrypted_text: WEJEkhpCAL5HUFSlR3wpP55BUZ+Ql5YPW71WJ76v1RRIxl1EfMT3qEwyEksqeP7eOAWIzmU6gvP1o1IBhfCJhsdsDJr5+UuWA5VlBaitiLsLpS+gY3a1rHmxmVcTf+xakoG52ERkL/uRZ3c+EX4lCrtRNR/p7WZIYFsRAitI6d6cdbiEetaDodEi5hRy4pb+S6VBAddQjTJdDbgMcHb32FDO2x7+NKl2QPKBBtgPftRK9vUCaf1gy6Pkd406Dq6tkYV3n6lfGwqZjJehG2tjn2OjOV7My00ZrsyittNoJAd1RJRrclgaOfeztN3oV3pGbxPHXUUlZBvBdRYvPnPWD5Je3Z8Iltt50CXAYUORamX9KxlgVnUcuU+ejKoedWY7QuOATNd2GnShxpzkSpTqpkL/LdtrhZ/dsWZ/fEdHNWvCvFUmTzZWYGG+VIbZa9+dGWPL0LEHFmVr9fAjhjoVo1ivAKUROMfYkSQGH3e8zBXS61Q8xTdL9tgaGQXrGXJbOfw4kEd3hIQdISf18LyMS47KZDduYtEseY5QSkQwCynoWTHbI6bEeZNsVLMy7huQdk0KyrM3kto27maVY37kceBx3CCD93mODCkhZ6NWsMhKsfd5Hoe21etawlmjzeph1st4F2+uQAeophHUlC2hgXsPBDGndvQiabv072eCnpXegzd53Gz/YCqYA9eJdB5qMW3wTtDVFSIWVsPPG9v+g/yHMJquEgoDYbB/rNGUoGPkvBVhMQl0nt+pEnxeFPmQQAlcGirvc/sGF44pFG/muzWT7BVq91mKKh6Y3OBn3axc2ECPb00lSUg2ZpGM1qChojDUoq4jJnu3ndf6PlM48Am8JT78E2cnVqjKh4ig1GYba5d4ds6k0H4KaLqMPxekFWO30v8E2kI3sCSbgv45qY/AOqOjoas22mOzAZpFXVs=
+    learner_created: false
+  - name: src/Fridge.java
+    visible: true
+    encrypted_text: rR7buxiReLkDtK5Y0J0s9jsS6L4TQ9vmCWsCPUHeg31HgpwfaSpHKNdVOw1NurxDbeEI40kompG7URPUT1aH6j64CZFsEseR4doLQc9Wqwa+GGeu3SzxJQebjNoSnhdVhdw+Zj98E21cV7UxNu9WJQz8BWTi7AgDgyfCVWFk9PHg/8jK/dPqxVtD54wZEbYy4JD/f4bJ+9l1QY492+WNSjyy/PUl997uXzFjCeJWK0zIfpk5RkVSNtSHf8dzHb3Q58/r1FhqIP+200UA1tk5ahMRlqWI/XVEocUkVLOtwsjZ6ct9fkhvD+C1V7SabFK7S+c3p/Wj8vOCGuOFvtnRWZgSqDKfBZ2m+/OrBqCZC4jqaUUZsYjHiO5i1GQGFR3VwWRvNlQ0U5LQxSh5FQ8L05p+A+rYnRK5M4IYvjwTqYvc+qX+1Cj7cgckL/Qj7+VBEMSbKTsW1kO8nEnvuWUbTmicRGQY4/rp+909h5z8Hi76j4Lztml2/shC49+lssUJjD71ji4Rbd/Y+VdRgnG11jOfBXP35nKdCZxj4fOEfoipUYuN89iH6byM1ElmHPy19bS6twCSbM9S8xKH8417hdoJMjRWkxUtCybTd/F4SV+dJPdkSXAokbHWxHjAJWQZCE+ss93XNoFkW2nrswqQwk49kssRcy+Np+UdRYc1hX7BT9gqsRLF7a4h3HsE6OoOtB/AfnlOGc2k052ZXEj6zpZwU38bajgUYEXrnN1ENDU=
+    learner_created: false
+  - name: src/Fridge3.java
+    visible: true
+    placeholders:
+      - offset: 21
+        length: 14
+        placeholder_text: extends Fridge
+        initial_state:
+          length: 14
+          offset: 21
+        initialized_from_dependency: false
+        selected: false
+        status: Failed
+        encrypted_possible_answer: EhpmrxNKTQKREQQxBoxtuA==
+      - offset: 41
+        length: 81
+        placeholder_text: |-
+          public Fridge3( float temperature) {
+                  super("Branch3", temperature);
+              }
+        initial_state:
+          length: 81
+          offset: 41
+        initialized_from_dependency: false
+        selected: false
+        status: Failed
+        encrypted_possible_answer: g6Xz4U1b81ieu+pUZ1yBeXmKfjj37WenEO4uvSKDHbmBKC3AMv0ajqo+q3DXonXOdhbyESCGvQU/xu/fhFmA3m3/0s/HyTPD3hMeg5ZdW/X6Vd4oFuaAQp/QIu+73jvFjXasrvM3kufaqZEugGIxIWaK3KJ7RXb/CxxRuTYT4jWrBa03B7QN53exi5tcmgcnqFGWeaF35E6y+C5Y0seZ2N0vCJtCXzpWQDlR5yVCSWHixk3ctFHatG5K115PFYt+miv2X5KcNI/UR+LX1R4EideSDpnvLYEZDMDpSnx/ikZoxulEDaaJJR4owl5EptdXnku5VBIrjYODjN0+lpKhIvLJfmo0XiF021BN5qg83ofef7Nqf0Ig+ZdChcuBdbb29xE2PUXgYtSynZrL1v9ji7cvrl8il1RMSIqRJ9uxU9MvN6QPfMvda5Dr/QMyOSTShmYcDeGFETiToCJ/HJAuU0mF1Q3n6a1CqL34CKnPjmyhrwtjwzx+eifguD+soMQIWAwHVPxsVy/NKuyueLQjFcL05W117iZ8scX+bwwjAOOIa08fY7VoXEdPWYWC7O9zJKREwhQQGo36e78q84Bkmjpnf2zPNfPanvLDHLj5iEnh/2WQCmXStKAfj0ClNaJhYWSKSYV0oluXKaEw63G3tHpgiWGeJ0rUPAK8+AXluZ8=
+    encrypted_text: rR7buxiReLkDtK5Y0J0s9nwBGZHbooFqlQ5yGc4sEOrdJuKUQ5S3uePPxRwNt4JS1/g1fu2Wr9ENz/MnGoD8JkJJDdYvg6wR50Bzv4t9r7udSgsKjU+9/s13kHgqCo23TCEfkyp7BRD3Pe2nIbMDlnvQ54zOFjyUKC7xp7ohg4E=
+    learner_created: false
+  - name: src/Fridge2.java
+    visible: true
+    placeholders:
+      - offset: 21
+        length: 14
+        placeholder_text: extends Fridge
+        initial_state:
+          length: 14
+          offset: 21
+        initialized_from_dependency: false
+        selected: false
+        status: Failed
+        encrypted_possible_answer: EhpmrxNKTQKREQQxBoxtuA==
+      - offset: 41
+        length: 81
+        placeholder_text: |-
+          public Fridge2( float temperature) {
+                  super("Branch2", temperature);
+              }
+        initial_state:
+          length: 81
+          offset: 41
+        initialized_from_dependency: false
+        selected: false
+        status: Failed
+        encrypted_possible_answer: g6Xz4U1b81ieu+pUZ1yBeXmKfjj37WenEO4uvSKDHblKvqyWF1DbdQjQOmNDaVRJmSn7Kfw8Ih0GGc9lF4+oW3ZKRfR4tlkXeaegcVCSs/rsH2H3kj85XYKCMFRuneY2xVqh0UhaFoJ0gW+3Dep98KQy67QS3A9b+dERYi4tQOcemda5oS+ywL8hN2fUM8LmQu3axRAhcZt3a+0ULbSlnoV0rzTZPIcfqZRnMHfI8yy1FBLsiccHBH7lZhW5z35e6BxEYL+aEXN66oY0TP/uRNhtZw4eWaL0MXSlBCeYj9PKQ6O0cBlhqRk83cwuoKEszMeVyJ2be4CXQAd5o+sA9yj49vQoI9jh8fFmuh0CM1o7SawCJbLgM2jmgFLiGYTNkirbcVaF3xMytfwKFgF2CWhYqk8vnNOiUzEk5f60eH9byobnnek6yzTjPhyI73TbaW1YW27m0p2jHi7dEfEeJtzA2nR1hKyWJe1EKREUH9d0lvJVgs6WhVxH8zS28mKVetR6bPKC2NANHB76M17da3KJ1R9hNcmC7bESyT4nGJ1sSE2YoIMKOuUQLage95BBK1jcGfvByNCyH5jjSiaodeOTVRfx0d1ggUY4wkdJqsQbR3luEjNfOHDVQrIhf6HRJ5q4H29Io9Q10625I2SuAjceJ2p9Gaz9NzjJnnM726k=
+    encrypted_text: rR7buxiReLkDtK5Y0J0s9sG+dEUxydMnMltYOry30lJhThrz03rSAT0ZI6W1v91X1w78QyglQ6UOR5OwJpMAe7FLLYDl/jzsym/pT9i33EjTBnEWtYF1H9hMknWpd5a4+lvgIMJ+MxWoxhkvbX58FvIK07AeSlvUsHFHjgwI5FQ=
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    encrypted_text: ITs8Nv8EH6QWJG5nufD7nL+5+4bhYoXDvmVthWtIgQ65QGrosPwl8pWa8Roz0DaOw/RmeK6jy1Cqw2VKjxi65HMYDc8ZqjEpDxumF4z8g3fjgWfbxL6vBhSPWsSVK1YOpG6dQfhea/Mw+irJf4i1ov1UkvlOsgTrMeB+sAD08YPU1HvZlGMVG/g+dyf8cb0fcArB21HRLoQ8iqgYfVcb/rU85cVRth7R92izmTQl6om2aaKUcTtTgZEQr4hjZIWeE4rYIWaNosXCOMPe/HLchMaZQmxwCZAyCYFGzKrD0tHGcyzfwiX9EQQtBFiZ8CwLepQxWoMWwWfPadUd8jwZQ4UYoonqPmSPpsPX8ikVvKk3Tkwy6LNjSsSpHI15bijQCRrSPtR75cQxPBAJcD5D0hna7B4w8CrFpi+QbwWAvuzIVqsGrrb3yiZtnufV2Roel/T1SUJqTgH1KSt77YfndWb5IbW1BliC9IoSF3BHrGFRCd48buB8JXnkRFI0/Ma+MEKyYOcp0H5vJgmdalATRX9w8MpkBfj+WdCxOzbvN5PZRbtD+tcmA5kreWrKmB5T/D0nyfj/kjuSMyllbGE0GhIZR5uqp8EVOLO74qjsJ4MZYbp7jsiIYB3MlXQS3VsGMxKMPqqEuNPBHAzOYqhVnh4gIqp/98CsQGc3jEvi93gsOYzHVfgrwHFT3eBpZ7G9AspH1QlpPHDVGg5JjlRybt1fryl+tNFfr5IRw7od9jwvNsmz1B9ulB+9dagdyHw4nYBnzxxbLNKx/MPlxG7IQ3CPThHkpxPa1UH9ImM3pUZQeNDIOW/symLB/6+Hj9Dy69DWQEh/04xmEeZDB7q6IRPqTBD4rH0qXdAzAY+sgkU/HmS/4UEEJvd5xSR2til9TTxvGQOK/qor05WodIqwS3NXx3BOpboAEcUJ3k60CuvmMuUyHJ7WsgcIP8XC98VgUz8tD0JjwGKqWDvOEI/NVAN+yboz809hWmdiOyOrXXfQ5Aq3XLTw4ZqzMb7gNuGrfvFqwSHe+8syA0J5+bOFaIEOP+GQbGQxrA+2hSFc1MRHbIE3ybwcD1COKnaaNI2/ofadwBUTeO4mx07g+hYV4BAcTT3RJT74L1flfoUBEGSNJG4YtDKzQP1BDJHS+gMht3pIGAGzrVqQmoep3WIQySVUbl58cxQ6TtOCe51IUoiprSVT5KpXOWGf3efB0+37GcojF+gLn64TtY3TteJshSxHM7VMz1RmNSphaOBZ9Sw+ps/X6gl/TwJ3TlT3qgYakxkCvgc4TEiiHQdy94Apoma3ItNddS6Y18/lB/THhcgJ7r74cQn8ZmirWROQrG896TLUCG/IFFKJSG8E06UlXF/0aqpWwXOCb53kEdFk3CiJAiDYL89qzQM66fHleiefKcMsXFtGVufjPjqPZUvXQe6nb+JgpJb19+VqUpk2oK98+/EAHBSqZfTByvQtdeestmiLMZLVFkvxeh8Q3nCsWkC+5f+jI6jcRDm1p4yQsZfPtWg2JUZ3fn9sPfa3/hvxVL66fGh34cH8q6tltIgl/4DNBqD4hGGymRqnQvK6gLlSgwZIDy2xNBBe+IieJPmtmyXKUJK3/pI+j+MJP00rLlpq6KmnEVAy3xfWeAurA6GEUXrlDp8d5Jg+UUkROgl70omeiCiWevTCn/8RwKDHABozIFIklt4jEkJloHi/Yx7TLz7tpaiC+i5xsjP1CeqXW/4P7uvzvGOa+yQGmjxXPxaufGV2n1XokC2v6iiY71A=
+    learner_created: false
+  - name: src/Fridge1.java
+    visible: true
+    placeholders:
+      - offset: 21
+        length: 14
+        placeholder_text: extends Fridge
+        initial_state:
+          length: 14
+          offset: 21
+        initialized_from_dependency: false
+        selected: false
+        status: Failed
+        encrypted_possible_answer: EhpmrxNKTQKREQQxBoxtuA==
+      - offset: 41
+        length: 81
+        placeholder_text: |-
+          public Fridge1( float temperature) {
+                  super("Branch1", temperature);
+              }
+        initial_state:
+          length: 81
+          offset: 41
+        initialized_from_dependency: false
+        selected: false
+        status: Failed
+        encrypted_possible_answer: g6Xz4U1b81ieu+pUZ1yBeXmKfjj37WenEO4uvSKDHblEYEIgKauUOt/H0FajugueIgEocS2wTxpcB0BFBT0442MvtV9MaqnDsgXjyC+1sv9SB1Fko4DKL98nDWSUdvelL0GWnCv7i2qxRK0Y+t52u/g3xxlam+Pe9ea4QTcRRl8vRvo6EAdkfVhJMPVeKf0YuLLvh/h75mOskln0amwVhZbogNDjReJXqYG+Ft71nqtCUjBj7A7CDQ9nNF5GwT7HHzeDbAnxpnM67H91sD6OVDPyIodEO1oFGoTLcXRMwNOrwX32EXBfAP2Mru3ylmncwDXLkjS1hR51bLMm2q1/ERwFoCHu1RpMyF9oh6/ECP5FbiFfyMCWQy8HhtPIqnqUr6W5erTAz3yF/MyETD9Ol7PYnaBuxxwsokWDqbY/Fh1NgvHsZZxFmYbF1hQ959btZu1uI9VnHV3OtLE+aD8EZmdPRpKiFGa4F3WfCTri3IhiAwyBD+pRNSsXm6m+N/6fJdaIas2akbDGAmbugp73UP6E3XjZyjJ6FTjk/zxA9t5rVGGlqKgVTlBYXE/y9gz18pVdrrbygfvwEWgQpD9cbbzviY3HH7uL3VSUZpFC19pFHI/niy6peA/m8ggkDOClvPg/EP8MfvGCSOLZOSm5G2QpJnmSdnzvBcxuFYGfcvE=
+    encrypted_text: rR7buxiReLkDtK5Y0J0s9vg1rv/81F3NPYQG5w7Lvi+iBs/hleaTpRzBrjnv52KM7P7h8FGFxfpL4/OsT0nk7qO15v3QdyUpBApqWJJJMWdYMjTlCtvFvQ916yMq7IRM9VXs7biXi14eIeO48onRBRK8vgtGnnFX8HwaB1zgrTw=
+    learner_created: false
+status: Failed
+feedback:
+  message: Execution failed
+  time: "Sun, 05 Nov 2023 04:58:45 UTC"
+record: -1

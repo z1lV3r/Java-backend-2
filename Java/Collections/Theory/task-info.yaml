@@ -1,0 +1,9 @@
+type: theory
+files:
+  - name: src/Main.java
+    visible: true
+    encrypted_text: NYgHoNruO3t7vIi6YFhoH5Y3smFePCPz49Z2FWeSLZJj+7+6hdq34WKSR2acXBYat6SdjHSSHeEGzgVGLYDgScBCoH6uckByZMlIm3Ro/oTcoTOUTbJFkuE3ruhqkhlZ/puPDRSonOqRI8rS68PWxq1uymT2Rd8hGbBzzlDgVcftvxiXj99JBb55SrD0V0OpaNmq9qndCYrC2nY4KAUaDVUq1bJKiiIJHDYyktN0UT2g2sUMQo+cFD25Vc9Oqh60WF9t03yAjjjfsrZZP18AYg==
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true
